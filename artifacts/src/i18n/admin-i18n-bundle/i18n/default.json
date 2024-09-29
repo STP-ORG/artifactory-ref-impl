@@ -34,7 +34,11 @@
       "name": "Spanish",
       "nativeName": "Española",
       "locale": "es_ES"
-    }
+    },
+    "por": {
+      "name": "Portuguese",
+      "nativeName": "Português",
+      "locale": "pt_BR"
   },
   "keyboardMapping" :{
     "eng": "en",
@@ -43,7 +47,8 @@
     "hin": "hi",
     "tam": "ta",
     "kan": "kn",
-    "spa": "es"
+    "spa": "es",
+    "por": "pt"
   },
   "masterdataMapping" :{
     "blocklisted-words": {
@@ -54,7 +59,8 @@
         "fra": "Mots bloqués",
         "tam": "தடுப்புப்பட்டியலில் உள்ள வார்த்தைகள்",
         "kan": "ನಿರ್ಬಂಧಿತ ಪದಗಳು",
-        "hin": "ब्लॉक लिस्टेड शब्द"
+        "hin": "ब्लॉक लिस्टेड शब्द",
+        "por": "Palavras na lista de bloqueio"
       }
     },
     "holiday": {
@@ -65,7 +71,8 @@
         "fra": "Liste de vacances",
         "tam": "விடுமுறை",
         "kan": "ರಜಾದಿನ",
-        "hin": "छुट्टी"
+        "hin": "छुट्टी",
+        "por": "Feriado"
       }
     },
     "document-type": {
@@ -76,7 +83,8 @@
         "fra": "Types de documents",
         "tam": "ஆவண வகை",
         "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ಪ್ರಕಾರ",
-        "hin": "दस्तावेज़ का प्रकार"
+        "hin": "दस्तावेज़ का प्रकार",
+        "por": "Tipo de documento"
       }
     },
     "templates": {
@@ -87,7 +95,8 @@
         "fra": "Modèles",
         "tam": "வார்ப்புருக்கள்",
         "kan": "ಟೆಂಪ್ಲೇಟ್‌ಗಳು",
-        "hin": "टेम्पलेट्स"
+        "hin": "टेम्पलेट्स",
+        "por": "Modelos"
       }
     },
     "machine-type": {
@@ -98,7 +107,8 @@
         "fra": "Types de machines",
         "tam": "இயந்திர வகைகள்",
         "kan": "ಯಂತ್ರ ಪ್ರಕಾರಗಳು",
-        "hin": "मशीन के प्रकार"
+        "hin": "मशीन के प्रकार",
+        "por": "Tipos de máquinas"
       }
     },
     "device-types": {
@@ -109,7 +119,8 @@
         "fra": "Types de périphériques",
         "tam": "சாதன வகைகள்",
         "kan": "ಸಾಧನ ಪ್ರಕಾರಗಳು",
-        "hin": "डिवाइस के प्रकार"
+        "hin": "डिवाइस के प्रकार",
+        "por": "Tipos de dispositivos"
       }
     },
     "document-categories": {
@@ -120,7 +131,8 @@
         "fra": "Catégories de document",
         "tam": "ஆவண வகைகள்",
         "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ವರ್ಗಗಳು",
-        "hin": "दस्तावेज़ श्रेणियाँ"
+        "hin": "दस्तावेज़ श्रेणियाँ",
+        "por": "Categorias de documentos"
       }
     },
     "machine-specs": {
@@ -131,7 +143,8 @@
         "fra": "Spécifications de la machin",
         "tam": "இயந்திர விவரக்குறிப்பு",
         "kan": "ಯಂತ್ರ ವಿವರಣೆ",
-        "hin": "मशीन विशिष्टता"
+        "hin": "मशीन विशिष्टता",
+        "por": "Especificação da máquina"
       }
     },
     "device-specs": {
@@ -142,7 +155,8 @@
         "fra": "Spécifications de l\"appareil",
         "tam": "சாதன விவரக்குறிப்பு",
         "kan": "ಸಾಧನ ವಿವರಣೆ",
-        "hin": "डिवाइस विशिष्टता"
+        "hin": "डिवाइस विशिष्टता",
+        "por": "Especificação do dispositivo"
       }
     },
     "center-type": {
@@ -153,7 +167,8 @@
         "fra": "Type de centre",
         "tam": "மைய வகை",
         "kan": "ಕೇಂದ್ರ ಪ್ರಕಾರ",
-        "hin": "केंद्र प्रकार"
+        "hin": "केंद्र प्रकार",
+        "por": "Tipo de centro"
       }
     },
     "dynamicfields": {
@@ -164,7 +179,8 @@
         "fra": "Champ dynamique",
         "tam": "டைனமிக் புலம்",
         "kan": "ಡೈನಾಮಿಕ್ ಫೀಲ್ಡ್",
-        "hin": "गतिशील क्षेत्र"
+        "hin": "गतिशील क्षेत्र",
+        "por": "Campo Dinâmico"
       }
     },
     "documentCategoryMapping": {
@@ -175,7 +191,8 @@
         "fra": "Catégorie de document - Mappage de types",
         "tam": "ஆவண வகை - வகை மேப்பிங்",
         "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ವರ್ಗ - ಟೈಪ್ ಮ್ಯಾಪಿಂಗ್",
-        "hin": "दस्तावेज़ श्रेणी - प्रकार मानचित्रण"
+        "hin": "दस्तावेज़ श्रेणी - प्रकार मानचित्रण",
+        "por": "Categoria do Documento - Mapeamento de Tipo"
       }
     }
   }

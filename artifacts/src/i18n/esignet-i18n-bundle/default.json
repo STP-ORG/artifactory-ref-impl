@@ -5,15 +5,17 @@
     "hi": "हिंदी",
     "ar": "عربى",
     "kn": "ಕನ್ನಡ",
-    "ta": "தமிழ்"
+    "ta": "தமிழ்",
+    "por": "Português"
   },
-  "rtlLanguages": ["ar"],
+  "rtlLanguages": [],
   "langCodeMapping": {
     "eng": "en",
     "spa": "es",
     "hin": "hi",
     "ara": "ar",
     "kan": "kn",
-    "tam": "ta"
+    "tam": "ta",
+    "por": "por"
   }
 }
