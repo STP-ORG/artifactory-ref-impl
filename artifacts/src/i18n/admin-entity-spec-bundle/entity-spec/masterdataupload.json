@@ -9,7 +9,9 @@
         "hin": "डेटा अपलोड करें  ",
         "kan": "ಡೇಟಾವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ   ",
         "tam": "தரவைப் பதிவேற்றுக",
-        "spa": "Cargar datos"
+        "spa": "Cargar datos",
+        "por": "Carregar Dados"
+        
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -27,7 +29,8 @@
         "hin": "लेन-देन आईडी  ",
         "kan": "ವಹಿವಾಟು ID   ",
         "tam": "பரிவர்த்தனை ஐடி  ",
-        "spa": "ID de transacción"
+        "spa": "ID de transacción",
+        "por": "ID de Transação"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -41,7 +44,8 @@
         "hin": "तालिका नाम   ",
         "kan": "ಟೇಬಲ್ ಹೆಸರು ",
         "tam": " அட்டவணை பெயர்",
-        "spa": "Nombre de la tabla"
+        "spa": "Nombre de la tabla",
+        "por": "Nome da Tabela"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -55,7 +59,8 @@
         "hin": "कार्यवाही    ",
         "kan": "ಕಾರ್ಯಾಚರಣೆ  ",
         "tam": " செயல்பாடு  ",
-        "spa": "Operación"
+        "spa": "Operación",
+        "por": "Operação"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -68,7 +73,8 @@
       "label": {"eng": "Count","ara": "المستخدمين","fra": "Utilisateur","hin": "गिनती   ",
         "kan": "ಎಣಿಕೆ  ",
         "tam": "எண்ணிக்கை",
-        "spa": "Cantidad"
+        "spa": "Cantidad",
+        "por": "Contagem"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -82,7 +88,8 @@
         "hin": "स्थिति   ",
         "kan": "ಸ್ಥಿತಿ   ",
         "tam": "நிலை",
-        "spa": "Estado"
+        "spa": "Estado",
+        "por": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -96,7 +103,8 @@
         "hin": "द्वारा डाली गई  ",
         "kan": "ಇವರಿಂದ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ   ",
         "tam": "பதிவேற்றியது  ",
-        "spa": "Cargado por"
+        "spa": "Cargado por",
+        "por": "Carregado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -110,7 +118,8 @@
         "hin": "समय टिकट    ",
         "kan": "ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್  ",
         "tam": " நேர முத்திரை  ",
-        "spa": "Fecha y hora"
+        "spa": "Fecha y hora",
+        "por": "Data e hora"
       },
       "sortOrder": "",
       "showAsLink": "",

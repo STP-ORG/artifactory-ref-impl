@@ -34,6 +34,11 @@
       "name": "Kannada",
       "nativeName": "ಕನ್ನಡ",
       "locale": "kn_IN"
+    },
+    "por": {
+      "name": "Portuguese",
+      "nativeName": "Português",
+      "locale": "pt_BR"
     }
   }
 }

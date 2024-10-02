@@ -8,7 +8,8 @@
       "tam": "செயல்படுத்த",
       "hin": "सक्रिय",
         "kan": "ಸಕ್ರಿಯಗೊಳಿಸಿ",
-        "spa": "Activar"
+        "spa": "Activar",
+      "por": "Activar"
     },
     "actionURL": "",
     "redirectURL": "",
@@ -24,7 +25,8 @@
         "tam": "செயலிழக்க",
         "hin": "निष्क्रिय करें",
         "kan": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ",
-        "spa": "Desactivar"
+        "spa": "Desactivar",
+        "por": "Desativar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -40,7 +42,8 @@
         "tam": "தொகு",
         "hin": "संपादित करें",
         "kan": "ತಿದ್ದು",
-        "spa": "Editar"
+        "spa": "Editar",
+        "por": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/document-categories/single-view/$id",
@@ -56,7 +59,8 @@
         "tam": "உருவாக்கு",
         "hin": "बनाएं",
         "kan": "ರಚಿಸಿ",
-        "spa": "Crear"
+        "spa": "Crear",
+        "por": "Criar"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -73,7 +77,8 @@
         "tam": "வடிகட்டி",
         "hin": "फ़िल्टर",
         "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ",
-        "spa": "Filtrar"
+        "spa": "Filtrar",
+        "por": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -92,7 +97,8 @@
         "tam": "ஆவண வகை தமிழில் இல்லை",
         "hin": "दस्तावेज़ श्रेणी हिंदी में उपलब्ध नहीं है",
         "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ವರ್ಗವು ಕನ್ನಡದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ",
-        "spa": "Categoría de documento no disponible en español"
+        "spa": "Categoría de documento no disponible en español",
+        "por": "Categoría de documento não disponível em Inglês"
       },
       "imagePath": "",
       "actionListType": "action",
@@ -105,7 +111,8 @@
           "tam": "ஆவண வகை தமிழில் இல்லை",
           "hin": "दस्तावेज़ श्रेणी हिंदी में उपलब्ध नहीं है",
           "kan": "ಡಾಕ್ಯುಮೆಂಟ್ ವರ್ಗವು ಕನ್ನಡದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ",
-          "spa": "Categoría de documento no disponible en español"
+          "spa": "Categoría de documento no disponible en español",
+          "por": "Categoría de documento não disponível em Inglês"
         },
         "columnNames": [{
           "eng": "Code",
@@ -114,7 +121,8 @@
           "tam": "குறியீடு",
           "hin": "कोड",
           "kan": "ಕೋಡ್",
-          "spa": "Código"
+          "spa": "Código",
+          "por": "Código"
         }, {
           "eng": "Name",
           "ara": "اسم",
@@ -122,7 +130,8 @@
           "tam": "பெயர்",
           "hin": "नाम",
           "kan": "ಹೆಸರು",
-          "spa": "Nombre"
+          "spa": "Nombre",
+          "por": "Nome"
         }],
         "fieldName": "name"
       },
@@ -142,7 +151,9 @@
       "fra": "Code",
       "tam": "குறியீடு",
       "hin": "कोड",
-      "kan": "ಕೋಡ್"
+      "kan": "ಕೋಡ್",
+      "por": "Código"
+
     },
     "sortOrder": "3",
     "showAsLink": "",
@@ -162,7 +173,8 @@
         "fra": "prénom",
         "tam": "பெயர்",
         "hin": "नाम",
-        "kan": "ಹೆಸರು"
+        "kan": "ಹೆಸರು",
+        "por": "Nome"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -182,7 +194,8 @@
         "fra": "description",
         "tam": "விளக்கம்",
         "hin": "विवरण",
-        "kan": "ವಿವರಣೆ"
+        "kan": "ವಿವರಣೆ",
+        "por": "Descrição"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -203,7 +216,8 @@
         "fra": "Créé par",
         "tam": "உருவாக்கப்பட்டது",
         "hin": "के द्वारा बनाई गई",
-        "kan": "ರಚಿಸಿದವರು"
+        "kan": "ರಚಿಸಿದವರು",
+        "por": "Criado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -221,7 +235,8 @@
         "fra": "Mise à jour par",
         "tam": "புதுப்பிக்கப்பட்டது",
         "hin": "द्वारा अपडेट",
-        "kan": "ಇವರಿಂದ ನವೀಕರಿಸಲಾಗಿದೆ"
+        "kan": "ಇವರಿಂದ ನವೀಕರಿಸಲಾಗಿದೆ",
+        "por": "Actualizado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -239,7 +254,8 @@
         "fra": "Temps mis à jour",
         "tam": "புதுப்பிக்கப்பட்ட நேரம்",
         "hin": "अद्यतन समय",
-        "kan": "ನವೀಕರಿಸಿದ ಸಮಯ"
+        "kan": "ನವೀಕರಿಸಿದ ಸಮಯ",
+        "por": "Hora de Atualização"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -257,7 +273,8 @@
         "fra": "Temps créé",
         "tam": "Created Time",
         "hin": "बनाया गया समय",
-        "kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ"
+        "kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ",
+        "por": "Hora de Criação"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -276,7 +293,8 @@
         "fra": "c'est actif",
         "tam": "நிலை",
         "hin": "स्थिति",
-        "kan": "ಸ್ಥಿತಿ"
+        "kan": "ಸ್ಥಿತಿ",
+        "por": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -299,7 +317,8 @@
       "fra": "Code",
       "tam": "குறியீடு",
       "hin": "कोड",
-      "kan": "ಕೋಡ್"
+      "kan": "ಕೋಡ್",
+      "por": "Código"
     },
     "filterType": "equals",
     "autocomplete": "false",
@@ -318,7 +337,8 @@
       "fra": "prénom",
       "tam": "பெயர்",
       "hin": "नाम",
-      "kan": "ಹೆಸರು"
+      "kan": "ಹೆಸರು",
+      "por": "Nome"
     },
     "filterType": "equals",
     "autocomplete": "false",
@@ -337,7 +357,8 @@
       "fra": "Statut",
       "tam": "நிலை",
       "hin": "स्थिति",
-      "kan": "ಸ್ಥಿತಿ"
+      "kan": "ಸ್ಥಿತಿ",
+      "por": "Estado"
     },
     "filterType": "equals",
     "autocomplete": "false",

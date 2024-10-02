@@ -9,7 +9,8 @@
         "hin": "सक्रिय ",
         "kan": "ಸಕ್ರಿಯಗೊಳಿಸಿ  ",
         "tam": "செயல்படுத்த",
-        "spa": "Activar"
+        "spa": "Activar",
+        "por": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -25,7 +26,8 @@
         "hin": "निष्क्रिय करें  ",
         "kan": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ   ",
         "tam": "செயலிழக்க",
-        "spa": "Desactivar"
+        "spa": "Desactivar",
+        "por": "Desativar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -41,7 +43,8 @@
         "tam": "தொகு",
         "hin": "संपादित करें",
         "kan": "ತಿದ್ದು",
-        "spa": "Editar"
+        "spa": "Editar",
+        "por": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/machine-type/single-view/$id",
@@ -57,7 +60,8 @@
         "hin": "सर्जन करना  ",
         "kan": "ರಚಿಸಿ  ",
         "tam": "உருவாக்கு",
-        "spa": "Crear"
+        "spa": "Crear",
+        "por": "Criar"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -71,7 +75,8 @@
         "hin": "पफ़िल्टर ",
         "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ",
         "tam": "வடிகட்டி",
-        "spa": "Filtrar"
+        "spa": "Filtrar",
+        "por": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -93,7 +98,8 @@
         "hin": "कोड   ",
         "kan": "ಕೋಡ್ ",
         "tam": "குறியீடு",
-        "spa": "Código"
+        "spa": "Código",
+        "por": "Código"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -114,7 +120,8 @@
         "hin": "नाम    ",
         "kan": "ಹೆಸರು  ",
         "tam": "பெயர்",
-        "spa": "Nombre"
+        "spa": "Nombre",
+        "por": "Nome"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -132,7 +139,8 @@
         "hin": "विवरण  ",
         "kan": "ವಿವರಣೆ    ",
         "tam": "விளக்கம்",
-        "spa": "Descripción"
+        "spa": "Descripción",
+        "por": "Descrição"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -152,7 +160,8 @@
         "hin": "बनाया गया समय  ",
         "kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ  ",
         "tam": "நேரம் உருவாக்கப்பட்டது",
-        "spa": "Creado por"
+        "spa": "Creado por",
+        "por": "Criado Por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -170,7 +179,8 @@
         "hin": "द्वारा अपडेट   ",
         "kan": "ಇವರಿಂದ ನವೀಕರಿಸಲಾಗಿದೆ   ",
         "tam": "புதுப்பிக்கப்பட்டது",
-        "spa": "Actualizado por"
+        "spa": "Actualizado por",
+        "por": "Atualizado Por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -188,7 +198,8 @@
         "hin": "दअपडेट किया गया समय  ",
         "kan": "ನವೀಕರಿಸಿದ ಸಮಯ   ",
         "tam": "புதுப்பிக்கப்பட்ட நேரம்",
-        "spa": "Hora de actualización"
+        "spa": "Hora de actualización",
+        "por": "Hora de Atualização"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -206,7 +217,8 @@
         "hin": "बनाया गया समय  ",
         "kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ  ",
         "tam": "நேரம் உருவாக்கப்பட்டது",
-        "spa": "Hora de creación"
+        "spa": "Hora de creación",
+        "por": "Hora de Criação"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -220,7 +232,8 @@
       "label": { "eng": "Status", "ara": "نشط", "fra": "c'est actif", "hin": "स्थिति   ",
         "kan": "ಸ್ಥಿತಿ   ",
         "tam": "நிலை",
-        "spa": "Estado"
+        "spa": "Estado",
+        "por": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -241,7 +254,8 @@
       "filterlabel": { "eng": "Name", "ara": "اسم", "fra": "prénom" ,"hin": "नाम  ",
         "kan": "ಹೆಸರು    ",
         "tam": "பெயர்",
-        "spa": "Nombre"
+        "spa": "Nombre",
+        "por": "Nome"
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -256,7 +270,8 @@
       "filterlabel": { "eng": "Status", "ara": "نشط", "fra": "Statut" ,"hin": "स्थिति ",
         "kan": "ಸ್ಥಿತಿ    ",
         "tam": "நிலை",
-        "spa": "Estado"
+        "spa": "Estado",
+        "por": "Estado"
       },
       "filterType": "equals",
       "autocomplete": "false",

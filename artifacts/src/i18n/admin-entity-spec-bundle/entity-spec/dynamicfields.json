@@ -9,7 +9,8 @@
         "fra": "déclencher",
         "hin": "सक्रिय",
         "kan": "ಸಕ್ರಿಯಗೊಳಿಸಿ",
-        "tam": "செயல்படுத்த"
+        "tam": "செயல்படுத்த",
+        "por": "Activar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -25,7 +26,8 @@
         "fra": "désactiver",
         "hin": "निष्क्रिय करें",
         "kan": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ",
-        "tam": "செயலிழக்க"
+        "tam": "செயலிழக்க",
+        "por": "Desativar"
       },
       "actionURL": "",
       "redirectURL": "",
@@ -41,7 +43,8 @@
         "fra": "modifier",
         "hin": "संपादित करें",
         "kan": "ತಿದ್ದು",
-        "tam": "தொகு"
+        "tam": "தொகு",
+        "por": "Editar"
       },
       "actionURL": "",
       "redirectURL": "/admin/masterdata/dynamicfields/single-view/$id",
@@ -57,7 +60,8 @@
         "fra": "Ajouter le centre",
         "hin": "बनाएं",
         "kan": "ರಚಿಸಿ",
-        "tam": "உருவாக்கு"
+        "tam": "உருவாக்கு",
+        "por": "Criar"
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -74,7 +78,8 @@
         "fra": "filtre",
         "hin": "फ़िल्टर",
         "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ",
-        "tam": "வடிகட்டி"
+        "tam": "வடிகட்டி",
+        "por": "Filtrar"
       },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
@@ -91,7 +96,8 @@
         "fra": "Code & Valeur non présents en Français",
         "tam": "குறியீடு & மதிப்பு தமிழில் இல்லை",
         "hin": "कोड और मूल्य हिंदी में मौजूद नहीं है",
-        "kan": "ಕೋಡ್ ಮತ್ತು ಮೌಲ್ಯ ಕನ್ನಡದಲ್ಲಿ ಇರುವುದಿಲ್ಲ"
+        "kan": "ಕೋಡ್ ಮತ್ತು ಮೌಲ್ಯ ಕನ್ನಡದಲ್ಲಿ ಇರುವುದಿಲ್ಲ",
+        "por": "Código e valor não disponíveis em Inglês"
       },
       "imagePath": "",
       "actionListType": "action",
@@ -104,7 +110,8 @@
           "fra": "Code & Valeur non présents en Français",
           "tam": "குறியீடு & மதிப்பு தமிழில் இல்லை",
           "hin": "कोड और मूल्य हिंदी में मौजूद नहीं है",
-          "kan": "ಕೋಡ್ ಮತ್ತು ಮೌಲ್ಯ ಕನ್ನಡದಲ್ಲಿ ಇರುವುದಿಲ್ಲ"
+          "kan": "ಕೋಡ್ ಮತ್ತು ಮೌಲ್ಯ ಕನ್ನಡದಲ್ಲಿ ಇರುವುದಿಲ್ಲ",
+          "por": "Código e valor não disponíveis em Inglês"
         },
         "columnNames": [{
           "eng": "Code",
@@ -113,7 +120,8 @@
           "fra": "Code",
           "tam": "குறியீடு",
           "hin": "कोड",
-          "kan": "ಕೋಡ್"
+          "kan": "ಕೋಡ್",
+          "por": "Código"
         }, {
           "eng": "Name",
             "spa": "Nombre",
@@ -121,7 +129,8 @@
           "fra": "prénom",
           "tam": "பெயர்",
           "hin": "नाम",
-          "kan": "ಹೆಸರು"
+          "kan": "ಹೆಸರು",
+          "por": "Nome"
         }],
         "fieldName": "code"
       },
@@ -142,7 +151,8 @@
         "hin": "कोड",
         "kan": "ಕೋಡ್",
         "tam": "குறியீடு",
-        "spa": "Código"
+        "spa": "Código",
+        "por": "Código"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -163,7 +173,8 @@
         "hin": "नाम",
         "kan": "ಹೆಸರು",
         "tam": "பெயர்",
-        "spa": "Nombre"
+        "spa": "Nombre",
+        "por": "Nome"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -183,7 +194,8 @@
         "hin": "विवरण",
         "kan": "ವಿವರಣೆ",
         "tam": "விளக்கம்",
-        "spa": "Descripción"
+        "spa": "Descripción",
+        "por": "Descrição"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -203,7 +215,8 @@
         "hin": "मूल्य",
         "kan": "ಮೌಲ್ಯ",
         "tam": "மதிப்பு",
-        "spa": "Valor"
+        "spa": "Valor",
+        "por": "Valor"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -224,7 +237,8 @@
         "hin": "डाटा प्रकार",
         "kan": "ಡೇಟಾ ಪ್ರಕಾರ",
         "tam": "தரவு வகை",
-        "spa": "Tipo de datos"
+        "spa": "Tipo de datos",
+        "por": "Tipo de dados"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -242,7 +256,8 @@
         "hin": "मूल्य",
         "kan": "ಮೌಲ್ಯ",
         "tam": "மதிப்பு",
-        "spa": "Valor"
+        "spa": "Valor",
+        "por": "Valor"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -260,7 +275,8 @@
         "hin": "स्थिति",
         "kan": "ಸ್ಥಿತಿ",
         "tam": "நிலை",
-        "spa": "Estado"
+        "spa": "Estado",
+        "por": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "false",
@@ -277,7 +293,8 @@
         "hin": "बनाया गया समय",
         "kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ",
         "tam": "நேரம் உருவாக்கப்பட்டது",
-        "spa": "Hora de creación"
+        "spa": "Hora de creación",
+        "por": "Hora de Criação"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -294,7 +311,8 @@
         "hin": "के द्वारा बनाई गई",
         "kan": "ರಚಿಸಿದವರು",
         "tam": "உருவாக்கியது",
-        "spa": "Creado por"
+        "spa": "Creado por",
+        "por": "Criado Por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -311,7 +329,8 @@
         "hin": "द्वारा अपडेट",
         "kan": "ಇವರಿಂದ ನವೀಕರಿಸಲಾಗಿದೆ",
         "tam": "புதுப்பிக்கப்பட்டது",
-        "spa": "Actualizado por"
+        "spa": "Actualizado por",
+        "por": "Actualizado Por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -328,7 +347,8 @@
         "hin": "अद्यतन समय",
         "kan": "ನವೀಕರಿಸಿದ ಸಮಯ",
         "tam": "புதுப்பிக்கப்பட்ட நேரம்",
-        "spa": "Hora de actualización"
+        "spa": "Hora de actualización",
+        "por": "Hora de Atualização"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -344,7 +364,7 @@
   "filterColumns":  [
     {
       "filtername": "description",
-      "filterlabel": { "eng": "Description", "ara": "وصف", "fra": "La description","hin": "विवरण", "kan": "ವಿವರಣೆ", "tam": "விளக்கம்", "spa": "Descripción" },
+      "filterlabel": { "eng": "Description", "ara": "وصف", "fra": "La description","hin": "विवरण", "kan": "ವಿವರಣೆ", "tam": "விளக்கம்", "spa": "Descripción", "por": "Descrição" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -355,7 +375,7 @@
     },
     {
       "filtername": "isActive",
-      "filterlabel": { "eng": "Status", "ara": "نشط", "fra": "Statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை", "spa": "Estado" },
+      "filterlabel": { "eng": "Status", "ara": "نشط", "fra": "Statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை", "spa": "Estado", "por": "Estado" },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "true",

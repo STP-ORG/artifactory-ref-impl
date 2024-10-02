@@ -9,7 +9,9 @@
         "hin": "पैकेट अपलोड करें  ",
         "kan": "ಪ್ಯಾಕೆಟ್ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ  ",
         "tam": "பாக்கெட்டை பதிவேற்றுக",
-        "spa": "Subir paquete"
+        "spa": "Subir paquete",
+        "por": "Carregar Pacote"
+
       },
       "imagePath": "assets/images/add-icon.png",
       "actionListType": "redirect",
@@ -27,7 +29,8 @@
         "hin": "पैकेट अपलोड करें  ",
         "kan": "ವಹಿವಾಟು ID  ",
         "tam": "பரிவர்த்தனை ஐடி",
-        "spa": "ID de transacción"
+        "spa": "ID de transacción",
+        "por": "ID de Transação"
       },
       "sortOrder": "3",
       "showAsLink": "",
@@ -41,7 +44,8 @@
         "hin": "स्थिति   ",
         "kan": "ಸ್ಥಿತಿ   ",
         "tam": "நிலை",
-        "spa": "Estado"
+        "spa": "Estado",
+        "por": "Estado"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -55,7 +59,8 @@
         "hin": "गिनती   ",
         "kan": "ಎಣಿಕೆ  ",
         "tam": "எண்ணிக்கை",
-        "spa": "Cantidad"
+        "spa": "Cantidad",
+        "por": "Contagem"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -69,7 +74,8 @@
         "hin": "द्वारा डाली गई  ",
         "kan": "ಇವರಿಂದ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ   ",
         "tam": "பதிவேற்றியது",
-        "spa": "Subido por"
+        "spa": "Subido por",
+        "por": "Carregado por"
       },
       "sortOrder": "",
       "showAsLink": "",
@@ -83,7 +89,8 @@
         "hin": "दिनांक और समय ",
         "kan": "ದಿನಾಂಕ ಸಮಯ  ",
         "tam": "தேதி நேரம்",
-        "spa": "Fecha y hora"
+        "spa": "Fecha y hora",
+        "por": "Data e hora"
       },
       "sortOrder": "",
       "showAsLink": "",
