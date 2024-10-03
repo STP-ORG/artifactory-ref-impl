@@ -63,7 +63,7 @@
             "line4": "Quando carregado com sucesso, o documento aparecerá no lado direito. Verifique se você carregou o documento correto.",
             "line5": "Repita os passos 1-4 para carregar documentos para cada categoria de documento aplicável.",
             "line6": "Ao adicionar um candidato, se o documento de Comprovante de Endereço (POA) do novo candidato for o mesmo que o POA do usuário existente que já carregou o documento de POA, clique na opção Mesmo Que e selecione o nome do candidato.",
-            "line7": "Quando você completar o upload de todos os documentos, clique em Continuar para visualizar sua aplicação.",
+            "line7": "Quando você completar o upload de todos os documentos, clique em Continuar para visualizar sua aplicação."
       }
     },
     "preview": {
