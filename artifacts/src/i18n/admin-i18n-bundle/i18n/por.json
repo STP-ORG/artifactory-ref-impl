@@ -980,7 +980,11 @@
         "subtitleenrollment": "Detalhes de Inscrição",
         "subtitlelocation": "Localização",
         "searchbtn": "Pesquisar",
-        "clearbtn": "Limpar"
+        "clearbtn": "Limpar",
+        "name":"Nome completo",
+        "applicationId":"ID do aplicativo",
+        "enrolmentDate":"Data de inscrição",
+        "dateOfBirth":"Data de nascimento"
     },
     "generatecsr": {
         "title": "Gerar CSR",
