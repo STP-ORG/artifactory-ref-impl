@@ -457,9 +457,17 @@
             "filters": {
               "titleTxt": "Adicionar Filtros",
               "footerButtons": {
-                "resetTxt": "Reiniciar",
-                "cancelTxt": "Cancelar",
-                "applyTxt": "Aplicar"
+      "resetTxt": "Reset",
+      "cancelTxt": "Cancel",
+      "applyTxt": "Save"
+    }
+  },
+  "filters": {
+    "titleTxt": "Add Filters",
+    "footerButtons": {
+        "resetTxt": "Reset",
+        "cancelTxt": "Cancel",
+        "applyTxt": "Apply"
               }
             },
             "isActive": {

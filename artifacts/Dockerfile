@@ -96,6 +96,9 @@ ENV theme_zip_path=${base_path}/libs-release-local/theme
 # environment variable for idp auth wrapper zip path
 ENV idp_auth_wrapper_lib_zip_path=${base_path}/libs-release-local/idp/idp-auth-wrapper
 
+# environment variable for tech5 jar path
+ENV tech5_zip_path=${base_path}/libs-release-local/sdk/tech5
+
 # environment variable for esignet wrappers zip path
 ENV esignet_wrapper_lib_zip_path=${base_path}/libs-release-local/esignet
 
@@ -164,6 +167,8 @@ COPY /src/i18n/esignet-i18n-bundle/*  ${work_dir}/esignet-i18n-bundle/
 
 COPY /src/theme/esignet-theme/* ${work_dir}/esignet-theme/
 
+COPY /src/sdk/tech5/* ${tech5_zip_path}/
+
 COPY /src/jre/zulu11.41.23-ca-fx-jre11.0.8-win_x64.zip ${regclient_jar_path}/zulu11.41.23-ca-fx-jre11.0.8-win_x64.zip
 
 COPY /src/icu4j/* ${icu4j_jar_path}/
@@ -188,8 +193,3 @@ USER ${container_user_uid}:${container_user_gid}
 EXPOSE 8080
 
 CMD ["nginx", "-g", "daemon off;"]
-
-# environment variable for tech5 jar path
-ENV tech5_zip_path=${base_path}/libs-release-local/sdk/tech5
-
-COPY /src/sdk/tech5/* ${tech5_zip_path}/
